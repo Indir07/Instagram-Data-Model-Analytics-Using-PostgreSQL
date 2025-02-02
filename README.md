@@ -1,1 +1,1 @@
-# nstagram-Data-Model-Analytics-Using-PostgreSQL
+# Instagram-Data-Model-Analytics-Using-PostgreSQL
